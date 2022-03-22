@@ -1,0 +1,374 @@
+html, body {
+    background-image: url('../img/Achtergrond.png'); 
+    background-position: center;
+    color: white; 
+    font-family:'Perpetua', 'Times New Roman' serif; 
+    font-size: 20px; 
+}
+/*-------------------------------text--------------------------------*/
+.titel{
+  font-weight: bold; 
+  text-align: center; 
+  font-size: 100px;  
+  margin-left: 100px; 
+  margin-right: 100px; 
+  margin-top: 250px; 
+
+}
+
+h2{  
+  padding: 80px; 
+  margin-left: 100px; 
+  margin-right: 100px; 
+  border-top-style: dashed; 
+  border-top-color: white; 
+  margin-top: 80px; 
+  font-weight: lighter; 
+  text-align: center; 
+}
+
+h3{
+    font-weight: bold;
+    font-size: 40px; 
+    margin-top: 210px; 
+    margin-left: 500px; 
+    margin-bottom: 0px; 
+}
+
+h4{
+    font-style: italic;
+    font-weight: lighter; 
+    font-size: 30px; 
+    margin-left: 500px; 
+    margin-top: 0px; 
+}
+
+h5{
+    font-size: 18px; 
+    font-weight: lighter; 
+    margin-left: 500px; 
+    margin-right: 500px; 
+    margin-bottom: 150px; 
+}
+
+.rivier {
+  margin-top: 1000px; 
+  margin-left: 80px; 
+}
+
+.herSkin {
+  margin-left: 700px; 
+  margin-top: 200px; 
+  margin-bottom: 200px; 
+}
+
+.theBody{
+  margin-top: 350px; 
+  margin-left: 700px; 
+}
+
+.sheWas{
+  margin-top: 600px; 
+  margin-left: 900px; 
+  margin-right: 50px; 
+}
+
+.thisWas{
+  margin-top: 180px; 
+  margin-left: 900px; 
+  margin-right: 50px; 
+}
+
+.popular {
+    margin-top: 180px; 
+  margin-left: 900px; 
+  margin-right: 50px; 
+}
+
+.text {
+  margin-top: 200px; 
+  text-align: center; 
+  margin-bottom: 100px; 
+  margin-left: 400px; 
+  margin-right: 400px;
+}
+
+.textG1 {
+  padding-top: 590px; 
+  text-align: center; 
+  margin-bottom: 0px; 
+  margin-left: 10px; 
+  margin-right: 10px;
+}
+
+.textG {
+  margin-top: 100px; 
+  text-align: center; 
+  margin-bottom: 20px; 
+  margin-left: 10px; 
+  margin-right: 10px;
+}
+
+.penText {
+  margin-top: 190px; 
+  margin-left: 100px; 
+  margin-right: 800px; 
+  margin-bottom: 100px; 
+}
+
+.tekenen {
+  margin-top: 800px;
+}
+/*-------------------------------afbeeldingen--------------------------------*/
+.container {
+  margin-top: 100px; 
+  height: 2200px;
+  margin-bottom: 50px; 
+}
+
+.rivierI {
+  margin-top:200px; 
+}
+
+.land {
+  margin-top: 1100px; 
+  margin-bottom: 0px; 
+  text-align: center; 
+}
+
+.body{ 
+  position: sticky;
+  top: 6rem;
+  opacity: 0; 
+  margin-top: 0px; 
+  margin-bottom: 90px; 
+  margin-left: 280px; 
+}
+
+.glas {
+  position: sticky; 
+  top: 1rem; 
+  margin-left: 10px; 
+  margin-top: -650px; 
+}
+
+.mensen {
+  margin-top: 100px; 
+  margin-right: 80px; 
+}
+
+
+.gezicht {
+  margin-top: 50px; 
+  margin-left: 15px; 
+  margin-bottom: 0px; 
+}
+
+.handLinks {
+  opacity: 0; 
+  margin-top: 150px; 
+  margin-left: 410px; 
+}
+
+.handRechts {
+  opacity: 0; 
+  margin-top: 150px; 
+  margin-right: 425px; 
+}
+
+.gezicht1 {
+  margin-top: 50px;
+  margin-left: 75px; 
+}
+
+.gezicht2,
+.gezicht3L, 
+.gezicht4,
+.gezicht5 {
+  margin-top: 30px;
+  margin-left: 75px; 
+  margin-bottom: 0px; 
+}
+
+.gezicht3R {
+  margin-top: 30px;
+  margin-right: 75px; 
+  margin-bottom: 0px; 
+}
+
+.pen {
+  margin-right: 150px; 
+}
+ /*---------------------------------stenen--------------------------------*/
+.steen1 {
+  position:absolute; 
+  right: 10px; 
+  top: 1205px;  
+}
+
+
+.steen2 {
+  position:absolute; 
+  right: 60px; 
+  top: 1205px; 
+}
+
+.steen3 {
+  position:absolute; 
+  right: 110px; 
+  top: 1205px; 
+}
+
+.steen4 {
+  position:absolute; 
+  right: 160px; 
+  top: 1205px; 
+}
+
+.steen5 {
+  position:absolute; 
+  right: 210px; 
+  top: 1205px; 
+}
+
+.steen6 {
+  position:absolute; 
+  right: 260px; 
+  top: 1205px; 
+}
+
+.steen7 {
+  position:absolute; 
+  right: 310px; 
+  top: 1205px; 
+}
+
+.steen8 {
+  position:absolute; 
+  right: 360px; 
+  top: 1205px; 
+}
+
+.steen9 {
+  position:absolute; 
+  right: 410px; 
+  top: 1205px; 
+}
+
+.steen10 {
+  position:absolute; 
+  right: 460px; 
+  top: 1205px; 
+}
+
+.steen11 {
+  position:absolute; 
+  right: 510px; 
+  top: 1205px; 
+}
+
+.steenWater {  
+  opacity: 0; 
+  position: absolute; 
+  left: 800px;
+  top: 1680px; 
+}
+
+.steenLand {
+  opacity: 0;
+  position: absolute; 
+  margin-left: 650px; 
+  margin-top: 750px; 
+}
+
+/*--------------------------------animatie----------------------------------------*/
+
+#g:hover {
+   cursor: pointer;
+   transform: scale(1.2);
+   transition: .2s ease-in-out; 
+}
+
+.rotate {
+rotate: (0deg); 
+transform: rotate(-45deg) translate(-25px, 5px); 
+transition: 1.5s ease-in-out; 
+animation-fill-mode: both; 
+}
+
+.fall {
+  animation: fall 4.5s both; 
+}
+
+.float {
+  animation: float 5s both;  
+}
+
+.fadeIn {
+  animation: fadeIn 0.5s both;
+}
+
+.slideIn {
+  animation: slideIn 1s both;
+}
+
+.scale {
+  animation: scale 2s both;
+}
+
+.slideLeft {
+  animation: slideLeft 6s both;
+}
+
+.slideRight {
+  animation: slideRight 6s both;
+}
+
+@keyframes fall{
+  0% {transform: rotate(0) translate(0px, 0px) scale(1)}
+  40%{transform: rotate(-100deg) translate(-50px, -80px) scale(1) }
+  99%{transform: rotate(-160deg) translate(90px, -300px) scale(0.5) }
+  100%{transform: rotate(-160deg) translate(90px, -300px) scale(0.5) }
+}
+
+@keyframes float{
+  0% {transform: rotate(0) translate(0px, 0px) scale(0);
+      opacity: 1;}
+  40%{transform: rotate(20deg) translate(30px,200px) scale(0.5);
+      opacity: 1;}
+  70%{transform: rotate(-20deg) translate(-10px, 500px) scale(1);
+      opacity: 1;}
+  100%{transform: rotate(0deg) translate(0px, 800px) scale(1.5);
+    opacity: 1;}
+}
+
+@keyframes fadeIn{
+  0%{opacity: 0;}
+  100%{opacity: 1;}
+}
+
+@keyframes slideIn {
+  0%{transform: translate(-60px, 0px);
+    opacity: 0; }
+  100%{transform: translate(0px, 0px);
+    opacity: 1; }
+}
+
+@keyframes scale {
+  0%{transform: scale(1)}
+  100%{transform: scale(0.5)}
+}
+
+@keyframes slideLeft {
+  0%{transform: translate(-350px, 0px);
+    opacity: 0; }
+  100%{transform: translate(0px, 0px);
+    opacity: 1; }
+}
+
+@keyframes slideRight {
+  0%{transform: translate(350px, 0px);
+    opacity: 0; }
+  100%{transform: translate(0px, 0px);
+    opacity: 1; }
+}
